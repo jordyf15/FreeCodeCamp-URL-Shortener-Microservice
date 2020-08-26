@@ -1,0 +1,44 @@
+/* #3867d6  bwt background*/
+/* #4b7bec bwt kotak info */
+body{
+    margin: 0px;
+    background-color: #ced6e0;
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+}
+h1{
+    line-height: 10px;
+}
+.fa{
+    background: transparent;
+    border: none;
+}
+#container{
+    background-color: #dfe4ea;
+    text-align: center;
+    padding-bottom: 65px;
+}
+.user-stories{
+    text-align: left;
+}
+code{
+    background-color: #ffffff;
+}
+#footer{
+    text-align: center;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1px;
+    width: 60%;
+    height:15%;
+}
